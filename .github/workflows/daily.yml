@@ -2,7 +2,7 @@
 # based on https://github.com/sw-yx/gh-action-data-scraping
 on:
   schedule:
-    - cron:  '0 8 * * *' # every day at 8am
+    - cron:  '0 * * * *' # every day at 8am
 name: Pull Data and Build
 jobs:
   build:
