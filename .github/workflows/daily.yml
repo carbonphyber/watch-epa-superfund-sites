@@ -10,11 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Build
-      run: npm install
+    - name: Log Python location
+      run: which python
     - name: Scrape
       run: |
-        curl -o data/epa-superfunds.json --no-progress-meter "https://www.epa.gov/sites/production/files/buckeye_symlinks/semsjson/Human_Exposure_Site_List.json?_=$(date +%s)"
+        curl -o data/epa-superfunds-raw.json --no-progress-meter "https://www.epa.gov/sites/production/files/buckeye_symlinks/semsjson/Human_Exposure_Site_List.json?_=$(date +%s)"
+    - name: Pretty Print the JSON
+      run: |
+        cat data/epa-superfunds-raw.json | python -m json.tool > data/epa-superfunds.json
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
