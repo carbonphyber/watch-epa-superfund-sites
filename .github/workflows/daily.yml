@@ -2,7 +2,7 @@
 # based on https://github.com/sw-yx/gh-action-data-scraping
 on:
   schedule:
-    - cron:  '0 * * * *' # every day at 8am
+    - cron:  '0/15 * * * *'
 name: Pull Data and Build
 jobs:
   build:
@@ -15,9 +15,9 @@ jobs:
     - name: Scrape
       run: |
         curl -o data/epa-superfunds-raw.json --no-progress-meter "https://www.epa.gov/sites/production/files/buckeye_symlinks/semsjson/Human_Exposure_Site_List.json?_=$(date +%s)"
-    - name: Pretty Print the JSON
-      run: |
-        cat data/epa-superfunds-raw.json | python -m json.tool > data/epa-superfunds.json
+    #- name: Pretty Print the JSON
+    #  run: |
+    #    cat data/epa-superfunds-raw.json | python -m json.tool > data/epa-superfunds.json
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
