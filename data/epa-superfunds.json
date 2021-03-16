@@ -7925,7 +7925,7 @@
             "fedfacilityflag": "N",
             "state_code": "TX",
             "sitename": "RIVER CITY METAL FINISHING",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEUC",
             "zipcode": "78253",
             "state": "Texas",
             "friendlyurl": "www.epa.gov/superfund/river-city-metal-finishing",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "03-16-2021 09:15"
+        "timestamp": "03-16-2021 11:15"
     }
 }
