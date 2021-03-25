@@ -779,7 +779,7 @@
             "fedfacilityflag": "N",
             "state_code": "WA",
             "sitename": "MIDNITE MINE",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEUC",
             "zipcode": "99040",
             "state": "Washington",
             "friendlyurl": "www.epa.gov/superfund/midnite-mine",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "03-25-2021 17:15"
+        "timestamp": "03-25-2021 19:15"
     }
 }
