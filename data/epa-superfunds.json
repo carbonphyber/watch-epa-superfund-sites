@@ -791,7 +791,7 @@
             "siteid": "1001070",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of November 2020, there is insufficient data to determine the Human Exposure status at the Midnite Mine Superfund site because people visiting areas adjacent to the mine site may be exposed to surface water contamination if warning signs are ignored. Contaminant levels are above acceptable levels for the exposure pathways of concern, which include ingestion of water and use of Blue Creek for ceremonial purpose. Areas near the mine (Blue Creek Drainage) are used for recreation, hunting and gathering, and traditional tribal activities, and sediment and surface water in these areas are affected by acid mine drainage. Groundwater is affected but not currently used for drinking. To reduce exposure, the mined area is completely fenced in, warning signs are posted, access is restricted via locked gates, and warning signs are posted in affected areas outside the fence. EPA continues to work with the Spokane Tribe on advisories and outreach however we are planning to assess the risk of using the surface water for ceremonial purposes. EPA intends to evaluate this pathway, using the scenario outlined in the Baseline Risk Assessment, to understand the current risk of using the surface water. "
+            "humanexposurepathdesc": ""
         },
         {
             "fedfacilityflag": "N",
@@ -7937,7 +7937,7 @@
             "siteid": "0606915",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of September 2020, there is insufficient data to determine the Human Exposure Control status at the site. EPA is currently collecting environmental field data as part of a Remedial Investigation. The Baseline Human Health Risk Assessment and Remedial Investigation Report is anticipated to be complete by December 2020. At that time, it is expected that sufficient information will be available to make a Human Exposure Control status determination.\n"
+            "humanexposurepathdesc": ""
         },
         {
             "fedfacilityflag": "N",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "03-29-2021 09:15"
+        "timestamp": "03-29-2021 11:15"
     }
 }
