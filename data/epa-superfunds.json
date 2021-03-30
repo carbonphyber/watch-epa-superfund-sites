@@ -2723,7 +2723,7 @@
             "fedfacilityflag": "Y",
             "state_code": "CA",
             "sitename": "LAWRENCE LIVERMORE NATL LAB (SITE 300) (USDOE)",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEUC",
             "zipcode": "95376",
             "state": "California",
             "friendlyurl": "www.epa.gov/superfund/lawrencelivermore300",
@@ -2741,7 +2741,7 @@
             "fedfacilityflag": "Y",
             "state_code": "CA",
             "sitename": "LAWRENCE LIVERMORE NATL LAB, MAIN SITE (USDOE)",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEPR",
             "zipcode": "94550",
             "state": "California",
             "friendlyurl": "www.epa.gov/superfund/lawrencelivermoremain",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "03-30-2021 11:15"
+        "timestamp": "03-30-2021 13:15"
     }
 }
