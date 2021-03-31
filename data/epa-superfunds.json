@@ -7349,7 +7349,7 @@
             "fedfacilityflag": "N",
             "state_code": "IA",
             "sitename": "PEOPLES NATURAL GAS CO.",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "52001",
             "state": "Iowa",
             "friendlyurl": "www.epa.gov/superfund/peoplesnaturalgas",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "03-31-2021 09:15"
+        "timestamp": "03-31-2021 11:15"
     }
 }
