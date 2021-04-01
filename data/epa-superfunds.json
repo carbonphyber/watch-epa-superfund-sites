@@ -19481,7 +19481,7 @@
             "fedfacilityflag": "N",
             "state_code": "NC",
             "sitename": "POTTER'S SEPTIC TANK SERVICE PITS",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HHPA",
             "zipcode": "28451",
             "state": "North Carolina",
             "friendlyurl": "www.epa.gov/superfund/potters-septic-tank",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-01-2021 09:15"
+        "timestamp": "04-01-2021 11:15"
     }
 }
