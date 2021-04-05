@@ -7277,7 +7277,7 @@
             "fedfacilityflag": "N",
             "state_code": "KS",
             "sitename": "PESTER REFINERY CO.",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "67042",
             "state": "Kansas",
             "friendlyurl": "www.epa.gov/superfund/pesterrefineryco",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-05-2021 17:15"
+        "timestamp": "04-05-2021 19:15"
     }
 }
