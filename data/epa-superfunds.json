@@ -24197,7 +24197,7 @@
             "fedfacilityflag": "N",
             "state_code": "PA",
             "sitename": "ENTERPRISE AVENUE",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "19153",
             "state": "Pennsylvania",
             "friendlyurl": "www.epa.gov/superfund/enterpriseavenue",
@@ -25025,7 +25025,7 @@
             "fedfacilityflag": "N",
             "state_code": "PA",
             "sitename": "A.I.W. FRANK/MID-COUNTY MUSTANG",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HEPR",
             "zipcode": "19341",
             "state": "Pennsylvania",
             "friendlyurl": "www.epa.gov/superfund/aiwfrank",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-14-2021 13:15"
+        "timestamp": "04-14-2021 15:15"
     }
 }
