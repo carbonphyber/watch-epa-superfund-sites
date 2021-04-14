@@ -22091,7 +22091,7 @@
             "fedfacilityflag": "N",
             "state_code": "PA",
             "sitename": "BAGHURST DRIVE",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEUC",
             "zipcode": "19438",
             "state": "Pennsylvania",
             "friendlyurl": "www.epa.gov/superfund/baghurst",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-14-2021 09:15"
+        "timestamp": "04-14-2021 11:15"
     }
 }
