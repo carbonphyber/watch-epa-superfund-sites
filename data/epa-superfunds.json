@@ -2753,7 +2753,7 @@
             "siteid": "0902740",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of June 2020, there is currently insufficient information available to determine the Site-wide Human Exposure Control status at the Lawrence Livermore National Lab (LLNL) Main site because EPA found that vapors from groundwater contaminated with trichloroethene (TCE) and tetrachloroethene (PCE) may be entering buildings.  LLNL will not meet the FYR Addendum target (12/1/19) cited in the Fifth Five-Year Review report (9/26/17), which deferred protectiveness, pending results of the VISL evaluation.  After several years of debate with LLNL about their desire to use J&E modeling and the significance of the presence of substantial levels of TCE and PCE in groundwater beneath occupied buildings, LLNL finally agreed in October 2016 to sample indoor air at 37 priority buildings following EPA\u2019s 2015 VISL Guidance.  To date, LLNL has completed one round of sampling at five pilot buildings and is currently collecting a \u2018Winter\u2019 round (April 2019) for an additional 15.  LLNL has worked out efficiencies and committed to completing two-rounds of VI sampling for up to 20 buildings this year, however, this falls short of the 37 top-tier buildings on their priority list (of a total of 475 buildings).  "
+            "humanexposurepathdesc": ""
         },
         {
             "fedfacilityflag": "Y",
@@ -22103,7 +22103,7 @@
             "siteid": "0306939",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of July 2020, there is insufficient data to determine the Human Exposure status at the Baghurst Drive Superfund site. EPA is currently conducting a Remedial Investigation/Feasibility Study (RI/FS) at the Site."
+            "humanexposurepathdesc": ""
         },
         {
             "fedfacilityflag": "N",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-20-2021 09:15"
+        "timestamp": "04-20-2021 11:15"
     }
 }
