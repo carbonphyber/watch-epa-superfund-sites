@@ -6652,7 +6652,7 @@
             "state": "Missouri",
             "friendlyurl": "www.epa.gov/superfund/newtoncountymine",
             "eibaselinesiteInd": "Y",
-            "city": "GRANBY",
+            "city": "NEWTON COUNTY",
             "epaid": "MOD981507585",
             "county": "NEWTON",
             "regionid": "07",
@@ -7102,7 +7102,7 @@
             "state": "Kansas",
             "friendlyurl": "www.epa.gov/superfund/cherokeecounty",
             "eibaselinesiteInd": "Y",
-            "city": "GALENA",
+            "city": "CHEROKEE COUNTY",
             "epaid": "KSD980741862",
             "county": "CHEROKEE",
             "regionid": "07",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-26-2021 15:15"
+        "timestamp": "04-26-2021 17:15"
     }
 }
