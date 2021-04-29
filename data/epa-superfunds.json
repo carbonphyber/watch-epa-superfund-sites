@@ -5927,7 +5927,7 @@
             "fedfacilityflag": "N",
             "state_code": "MO",
             "sitename": "COMPASS PLAZA WELL TCE",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HENC",
             "zipcode": "65742",
             "state": "Missouri",
             "friendlyurl": "www.epa.gov/superfund/compassplazawell",
@@ -6359,7 +6359,7 @@
             "fedfacilityflag": "N",
             "state_code": "KS",
             "sitename": "WRIGHT GROUND WATER CONTAMINATION",
-            "humexposurestscode": "HHPA",
+            "humexposurestscode": "HEPR",
             "zipcode": "67882",
             "state": "Kansas",
             "friendlyurl": "www.epa.gov/superfund/wrightgroundwater",
@@ -33756,6 +33756,6 @@
         "total_data": 1875,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-29-2021 15:15"
+        "timestamp": "04-29-2021 17:15"
     }
 }
