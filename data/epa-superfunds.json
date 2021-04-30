@@ -12622,24 +12622,6 @@
         {
             "fedfacilityflag": "N",
             "state_code": "OH",
-            "sitename": "DIAMOND SHAMROCK CORP. (PAINESVILLE WORKS)",
-            "humexposurestscode": "HHPA",
-            "zipcode": "44077",
-            "state": "Ohio",
-            "friendlyurl": "www.epa.gov/superfund/diamond-shamrock-painesville",
-            "eibaselinesiteInd": "N",
-            "city": "PAINESVILLE",
-            "epaid": "OHD980611909",
-            "county": "LAKE",
-            "regionid": "05",
-            "siteid": "0504696",
-            "nplstatus": "P",
-            "saaflag": "N",
-            "humanexposurepathdesc": ""
-        },
-        {
-            "fedfacilityflag": "N",
-            "state_code": "OH",
             "sitename": "NORTH SANITARY LANDFILL",
             "humexposurestscode": "HEUC",
             "zipcode": "45404",
@@ -16222,24 +16204,6 @@
         {
             "fedfacilityflag": "Y",
             "state_code": "IL",
-            "sitename": "CHANUTE AIR FORCE BASE",
-            "humexposurestscode": "HEID",
-            "zipcode": "61866",
-            "state": "Illinois",
-            "friendlyurl": "www.epa.gov/superfund/chanute-airbase",
-            "eibaselinesiteInd": "N",
-            "city": "RANTOUL",
-            "epaid": "IL1570024157",
-            "county": "CHAMPAIGN",
-            "regionid": "05",
-            "siteid": "0501172",
-            "nplstatus": "P",
-            "saaflag": "N",
-            "humanexposurepathdesc": "In May 2010, EPA Region 5 withdrew from participation in DOD's BRAC cleanup, reuse and property transfer activities at the former Chanute AFB, Rantoul, IL.  Site work continues under Illinois EPA oversight.  U.S. EPA no longer tracks environmental indicators at Chanute.\r\n\r\n"
-        },
-        {
-            "fedfacilityflag": "Y",
-            "state_code": "IL",
             "sitename": "JOLIET ARMY AMMUNITION PLANT (LOAD-ASSEMBLY-PACKING AREA)",
             "humexposurestscode": "HEPR",
             "zipcode": "60434",
@@ -18287,24 +18251,6 @@
             "siteid": "0404439",
             "nplstatus": "P",
             "saaflag": "Y",
-            "humanexposurepathdesc": ""
-        },
-        {
-            "fedfacilityflag": "N",
-            "state_code": "MS",
-            "sitename": "POTTER CO.",
-            "humexposurestscode": "HEUC",
-            "zipcode": "39191",
-            "state": "Mississippi",
-            "friendlyurl": "www.epa.gov/superfund/Potter",
-            "eibaselinesiteInd": "N",
-            "city": "WESSON",
-            "epaid": "MSD056029648",
-            "county": "COPIAH",
-            "regionid": "04",
-            "siteid": "0404404",
-            "nplstatus": "P",
-            "saaflag": "N",
             "humanexposurepathdesc": ""
         },
         {
@@ -26589,24 +26535,6 @@
         },
         {
             "fedfacilityflag": "N",
-            "state_code": "NY",
-            "sitename": "HUDSON TECHNOLOGIES, INC.",
-            "humexposurestscode": "HEUC",
-            "zipcode": "10931",
-            "state": "New York",
-            "friendlyurl": "www.epa.gov/superfund/hudson-technologies",
-            "eibaselinesiteInd": "N",
-            "city": "HILLBURN",
-            "epaid": "NY0001392463",
-            "county": "ROCKLAND",
-            "regionid": "02",
-            "siteid": "0204251",
-            "nplstatus": "P",
-            "saaflag": "N",
-            "humanexposurepathdesc": ""
-        },
-        {
-            "fedfacilityflag": "N",
             "state_code": "NJ",
             "sitename": "WHITE SWAN LAUNDRY AND CLEANER INC.",
             "humexposurestscode": "HEUC",
@@ -31647,24 +31575,6 @@
         },
         {
             "fedfacilityflag": "N",
-            "state_code": "CT",
-            "sitename": "BROAD BROOK MILL",
-            "humexposurestscode": "HEUC",
-            "zipcode": "06016",
-            "state": "Connecticut",
-            "friendlyurl": "www.epa.gov/superfund/broadbrook",
-            "eibaselinesiteInd": "N",
-            "city": "EAST WINDSOR",
-            "epaid": "CT0002055887",
-            "county": "HARTFORD",
-            "regionid": "01",
-            "siteid": "0102950",
-            "nplstatus": "P",
-            "saaflag": "N",
-            "humanexposurepathdesc": ""
-        },
-        {
-            "fedfacilityflag": "N",
             "state_code": "MA",
             "sitename": "HATHEWAY & PATTERSON",
             "humexposurestscode": "HHPA",
@@ -33753,9 +33663,9 @@
         }
     ],
     "meta": {
-        "total_data": 1875,
+        "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "04-30-2021 06:15"
+        "timestamp": "04-30-2021 09:15"
     }
 }
