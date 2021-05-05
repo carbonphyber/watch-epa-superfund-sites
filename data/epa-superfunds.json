@@ -25781,7 +25781,7 @@
             "fedfacilityflag": "N",
             "state_code": "DE",
             "sitename": "CHEM-SOLV, INC.",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "19901-4264",
             "state": "Delaware",
             "friendlyurl": "www.epa.gov/superfund/chemsolv",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-05-2021 15:15"
+        "timestamp": "05-05-2021 17:15"
     }
 }
