@@ -15521,7 +15521,7 @@
             "fedfacilityflag": "N",
             "state_code": "IN",
             "sitename": "BECK'S LAKE",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HENC",
             "zipcode": "46619",
             "state": "Indiana",
             "friendlyurl": "www.epa.gov/superfund/becks-lake",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-06-2021 17:15"
+        "timestamp": "05-06-2021 19:15"
     }
 }
