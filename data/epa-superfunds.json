@@ -6881,7 +6881,7 @@
             "fedfacilityflag": "N",
             "state_code": "MO",
             "sitename": "ELLISVILLE SITE",
-            "humexposurestscode": "HHPA",
+            "humexposurestscode": "HEID",
             "zipcode": "63011",
             "state": "Missouri",
             "friendlyurl": "www.epa.gov/superfund/ellisville",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-07-2021 15:15"
+        "timestamp": "05-07-2021 17:15"
     }
 }
