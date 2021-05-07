@@ -22379,7 +22379,7 @@
             "fedfacilityflag": "Y",
             "state_code": "VA",
             "sitename": "NASA WALLOPS FLIGHT FACILITY",
-            "humexposurestscode": "",
+            "humexposurestscode": "HEID",
             "zipcode": "23337",
             "state": "Virginia",
             "friendlyurl": "www.epa.gov/superfund/nasa_wallops",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-07-2021 09:15"
+        "timestamp": "05-07-2021 11:15"
     }
 }
