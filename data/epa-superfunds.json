@@ -23135,7 +23135,7 @@
             "fedfacilityflag": "N",
             "state_code": "VA",
             "sitename": "RENTOKIL, INC. (VIRGINIA WOOD PRESERVING DIVISION)",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "23228",
             "state": "Virginia",
             "friendlyurl": "www.epa.gov/superfund/rentokil",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-10-2021 11:15"
+        "timestamp": "05-10-2021 13:15"
     }
 }
