@@ -6893,7 +6893,7 @@
             "siteid": "0701205",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": ""
+            "humanexposurepathdesc": "As of May 2021, there is insufficient Data to determine Human Exposure. A new contract should be in place by July to further evaluate groundwater and VI by installing additional wells to delineate plume and conducting semi-annual groundwater and VI."
         },
         {
             "fedfacilityflag": "N",
@@ -11501,7 +11501,7 @@
             "siteid": "0506409",
             "nplstatus": "N",
             "saaflag": "Y",
-            "humanexposurepathdesc": "As of March 2020, there is insufficient information to determine the site-wide Human Exposure Control status at the North Shore Gas North Plant Superfund Site. Primary site contaminants include polyaromatic hydrocarbons (PAHs), BTEX, and metals. Possible exposure pathways include dermal contact/incidental ingestion of contaminated soil or groundwater. In 2019 U.S. EPA conducted a supplemental investigation of additional Manufactured Gas Plant (MGP)-related contamination at the southern part of the site \u2013 where the City of Waukegan\u2019s recycling facility is located, in various parts of the parcel and directly east of the site, which is owned by EJ&E Railway. The additional survey was intended to further delineate the extent of MGP-derived contamination around the site. Still, an additional supplemental investigation is planned for 2020. Once approved and adopted, the supplemental investigation will be incorporated into a combined remedial investigation / feasibility study (RI/FS) report of the site. The RI/FS is expected by the end of 2020. Upon approval of a final RI/FS report, EPA will propose a cleanup plan to address the remaining contamination at the site and publish it for public comment. After considering any public comments received, EPA will then issue a Record of Decision (ROD) describing the Agency's chosen cleanup plan. EPA has prepared a Community Involvement Plan, and provides updates and other information about the Site through regular meetings with the Citizen\u2019s Advisory Group for Waukegan Harbor. "
+            "humanexposurepathdesc": "As of April 2021, there is insufficient information to determine the site-wide Human Exposure Control status at the North Shore Gas North Plant Superfund Site. Primary site contaminants include polyaromatic hydrocarbons (PAHs), BTEX, and metals. Possible exposure pathways include dermal contact/incidental ingestion of contaminated soil or groundwater. In 2019 U.S. EPA conducted a supplemental investigation of additional Manufactured Gas Plant (MGP)-related contamination at the southern part of the site \u2013 where the City of Waukegan\u2019s recycling facility is located, in various parts of the parcel and directly east of the site, which is owned by EJ&E Railway. The additional survey was intended to further delineate the extent of MGP-derived contamination around the site. Still, an additional supplemental investigation is planned for 2021. Once approved and adopted, the supplemental investigation will be incorporated into a combined remedial investigation / feasibility study (RI/FS) report of the site. The RI/FS is expected by the end of 2021. Upon approval of a final RI/FS report, EPA will propose a cleanup plan to address the remaining contamination at the site and publish it for public comment. After considering any public comments received, EPA will then issue a Record of Decision (ROD) describing the Agency's chosen cleanup plan. EPA has prepared a Community Involvement Plan, and provides updates and other information about the Site through regular meetings with the Citizen\u2019s Advisory Group for Waukegan Harbor. "
         },
         {
             "fedfacilityflag": "N",
@@ -15533,7 +15533,7 @@
             "siteid": "0501954",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, there is insufficient information to determine the sitewide Human Exposure Control Status at Beck's Lake Superfund site. The United States Environmental Protection Agency (USEPA) is overseeing the potentially responsible parties (PRPs) to conduct the Remedial Investigation of   the LaSalle Park area of the Site which began in July 2016. The sampling results showed elevated detections of metals in surface soil, subsurface soil and groundwater beneath the LaSalle Park Area of the Site.\u00a0Based on current Park recreational use, there are no immediate risks to park users, however long term evaluation needs to be completed.\u00a0 USEPA is leading an investigation in the residential area next to the Park, which began in the summer of 2017 which showed elevated subsurface detections of metals at isolated yards, but no immediate risks that warranted immediate clean-up.\u00a0 Based on the analysis of park and residential data, additional sampling needs to done to characterize the full nature and extent of contamination off-site. USEPA conducted sampling outside the boundaries of the original sampling area in late 2018. The PRPs are working on a Remedial Investigation report which is expected to be complete in 2020.\u00a0USEPA conducts community outreach and education via periodic public meetings and fact sheets to inform the community of the site, including site status and to explain potential health risks. USEPA will continue to provide public outreach regarding the   results of the investigations."
+            "humanexposurepathdesc": "As of April 2021, the Beck's Lake Superfund site is considered \"Current Human Exposure Not Under Control\" because soil sampling in November and December 2019 at LaSalle Park indicated lead levels above recreational screening criteria in surface soils. Residential lead sampling conducted in 2018 indicated sub-surface lead levels exceeding screening criteria, but no residential surface soils exceeded screening criteria. EPA is negotiating with the potentially responsible parties to conduct a time-critical removal action to address lead contamination within the LaSalle Park and limited residential areas in 2021."
         },
         {
             "fedfacilityflag": "N",
@@ -24053,7 +24053,7 @@
             "fedfacilityflag": "N",
             "state_code": "PA",
             "sitename": "BERKS SAND PIT",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HEPR",
             "zipcode": "19539",
             "state": "Pennsylvania",
             "friendlyurl": "www.epa.gov/superfund/berkssandpit",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-11-2021 11:15"
+        "timestamp": "05-11-2021 13:15"
     }
 }
