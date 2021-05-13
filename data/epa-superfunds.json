@@ -8447,7 +8447,7 @@
             "fedfacilityflag": "N",
             "state_code": "OK",
             "sitename": "WILCOX OIL COMPANY",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HENC",
             "zipcode": "74010",
             "state": "Oklahoma",
             "friendlyurl": "www.epa.gov/superfund/wilcox-oil",
@@ -9905,7 +9905,7 @@
             "fedfacilityflag": "N",
             "state_code": "LA",
             "sitename": "DEVIL'S SWAMP LAKE",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HENC",
             "zipcode": "70813",
             "state": "Louisiana",
             "friendlyurl": "www.epa.gov/superfund/devils-swamp-lake",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-13-2021 17:16"
+        "timestamp": "05-13-2021 19:15"
     }
 }
