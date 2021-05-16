@@ -18982,7 +18982,7 @@
             "state": "South Carolina",
             "friendlyurl": "www.epa.gov/superfund/clearwater-finishing",
             "eibaselinesiteInd": "Y",
-            "city": "CLEARWATER",
+            "city": "BEECH ISLAND",
             "epaid": "SCD003303120",
             "county": "AIKEN",
             "regionid": "04",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-16-2021 06:15"
+        "timestamp": "05-16-2021 11:15"
     }
 }
