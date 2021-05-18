@@ -6648,7 +6648,7 @@
             "state_code": "MO",
             "sitename": "NEWTON COUNTY MINE TAILINGS",
             "humexposurestscode": "HENC",
-            "zipcode": "64844",
+            "zipcode": "",
             "state": "Missouri",
             "friendlyurl": "www.epa.gov/superfund/newtoncountymine",
             "eibaselinesiteInd": "Y",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-18-2021 17:15"
+        "timestamp": "05-18-2021 19:15"
     }
 }
