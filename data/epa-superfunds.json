@@ -5927,7 +5927,7 @@
             "fedfacilityflag": "N",
             "state_code": "MO",
             "sitename": "COMPASS PLAZA WELL TCE",
-            "humexposurestscode": "HENC",
+            "humexposurestscode": "HEUC",
             "zipcode": "65742",
             "state": "Missouri",
             "friendlyurl": "www.epa.gov/superfund/compassplazawell",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-18-2021 11:15"
+        "timestamp": "05-18-2021 13:15"
     }
 }
