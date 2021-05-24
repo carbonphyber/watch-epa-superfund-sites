@@ -8753,7 +8753,7 @@
             "fedfacilityflag": "Y",
             "state_code": "TX",
             "sitename": "LONGHORN ARMY AMMUNITION PLANT",
-            "humexposurestscode": "HEID",
+            "humexposurestscode": "HEUC",
             "zipcode": "75670",
             "state": "Texas",
             "friendlyurl": "www.epa.gov/superfund/longhorn-army-ammo-plant",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-24-2021 17:15"
+        "timestamp": "05-24-2021 19:15"
     }
 }
