@@ -13290,11 +13290,11 @@
             "state_code": "MN",
             "sitename": "WAITE PARK WELLS",
             "humexposurestscode": "HEID",
-            "zipcode": "56387",
+            "zipcode": "56303",
             "state": "Minnesota",
             "friendlyurl": "www.epa.gov/superfund/waite-park-wells",
             "eibaselinesiteInd": "Y",
-            "city": "WAITE PARK",
+            "city": "WAITE PARK, ST CLOUD",
             "epaid": "MND981002249",
             "county": "STEARNS",
             "regionid": "05",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-26-2021 17:15"
+        "timestamp": "05-26-2021 19:15"
     }
 }
