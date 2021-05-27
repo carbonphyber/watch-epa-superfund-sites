@@ -6893,7 +6893,7 @@
             "siteid": "0701205",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of May 2021, there is insufficient Data to determine Human Exposure. A new contract should be in place by July to further evaluate groundwater and VI by installing additional wells to delineate plume and conducting semi-annual groundwater and VI."
+            "humanexposurepathdesc": "As of May 2021, there is insufficient Data to determine Human Exposure at the Ellisville Site. In July 2020, a risk assessment (Doc. ID 40565752) was completed. The risk assessment identified several uncertainties based on the quality of the data collected and ultimately it was determined there was insufficient data to make a determination. A new contract should be in place by July to further evaluate groundwater and VI by installing additional wells to delineate plume and conduct semi-annual groundwater and VI.\n\n"
         },
         {
             "fedfacilityflag": "N",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "05-27-2021 15:15"
+        "timestamp": "05-27-2021 17:15"
     }
 }
