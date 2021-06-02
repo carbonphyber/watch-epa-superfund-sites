@@ -9671,7 +9671,7 @@
             "fedfacilityflag": "Y",
             "state_code": "NM",
             "sitename": "LEE ACRES LANDFILL (USDOI)",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HHPA",
             "zipcode": "87413",
             "state": "New Mexico",
             "friendlyurl": "www.epa.gov/superfund/lee-acres",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-01-2021 17:15"
+        "timestamp": "06-01-2021 19:15"
     }
 }
