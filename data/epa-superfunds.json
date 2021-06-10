@@ -3839,7 +3839,7 @@
             "fedfacilityflag": "N",
             "state_code": "CA",
             "sitename": "ADVANCED MICRO DEVICES, INC.",
-            "humexposurestscode": "HENC",
+            "humexposurestscode": "HEPR",
             "zipcode": "94086",
             "state": "California",
             "friendlyurl": "www.epa.gov/superfund/advancedmicrodevices",
@@ -4037,7 +4037,7 @@
             "fedfacilityflag": "N",
             "state_code": "CA",
             "sitename": "TRW MICROWAVE, INC (BUILDING 825)",
-            "humexposurestscode": "HENC",
+            "humexposurestscode": "HEPR",
             "zipcode": "94086",
             "state": "California",
             "friendlyurl": "www.epa.gov/superfund/trwmicrowave",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-10-2021 15:15"
+        "timestamp": "06-10-2021 17:15"
     }
 }
