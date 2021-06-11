@@ -5939,7 +5939,7 @@
             "siteid": "0706143",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, there is Insufficient Data to Determine Human Exposure Control status at the Compass Plaza TCE Well Site.  EPA has taken protective measures with regards to TCE impacted private wells and has installed In House water filtration systems.  EPA is currently completing Remedial Investigation (RI) activities at the site.  A Record of Decision (ROD) is scheduled to be completed on April 30, 2021."
+            "humanexposurepathdesc": ""
         },
         {
             "fedfacilityflag": "N",
@@ -7811,7 +7811,7 @@
             "siteid": "0607093",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "Currently, fishing is observed in the Bayou adjacent to the Site. Based on data collected thus far, the fish ingestion exposure pathway exists."
+            "humanexposurepathdesc": "As of June 2021, Currently, fishing is observed in the Bayou adjacent to the Site. Based on data collected thus far, the fish ingestion exposure pathway exists."
         },
         {
             "fedfacilityflag": "N",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-11-2021 09:15"
+        "timestamp": "06-11-2021 11:15"
     }
 }
