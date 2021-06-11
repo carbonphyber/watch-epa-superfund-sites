@@ -22283,7 +22283,7 @@
             "siteid": "0304341",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 22, 2021, there is insufficient data to determine the site-wide Human Exposure status at the Curtis Bay Coast Guard Yard Superfund site. Following a significant storm event, potentially contaminated landfill material was identified at and near the surface in an area of the site used for recreation (boat ramp) called the Grove Site. A  Remedial Investigation scoping meeting is planned for this FY for the Grove Site."
+            "humanexposurepathdesc": "As of March 2021, there is insufficient data to determine the site-wide Human Exposure status at the Curtis Bay Coast Guard Yard Superfund site. Following a significant storm event, potentially contaminated landfill material was identified at and near the surface in an area of the site used for recreation (boat ramp) called the Grove Site. A  Remedial Investigation scoping meeting is planned for this FY for the Grove Site."
         },
         {
             "fedfacilityflag": "N",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-11-2021 11:15"
+        "timestamp": "06-11-2021 13:15"
     }
 }
