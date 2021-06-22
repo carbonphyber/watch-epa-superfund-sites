@@ -30101,7 +30101,7 @@
             "fedfacilityflag": "N",
             "state_code": "NJ",
             "sitename": "REICH FARMS",
-            "humexposurestscode": "HEPR",
+            "humexposurestscode": "HHPA",
             "zipcode": "08753",
             "state": "New Jersey",
             "friendlyurl": "www.epa.gov/superfund/reich-farm",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-22-2021 09:15"
+        "timestamp": "06-22-2021 11:15"
     }
 }
