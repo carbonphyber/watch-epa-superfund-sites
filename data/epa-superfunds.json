@@ -15252,11 +15252,11 @@
             "state_code": "MI",
             "sitename": "ROTO-FINISH CO., INC.",
             "humexposurestscode": "HEPR",
-            "zipcode": "49002",
+            "zipcode": "49024",
             "state": "Michigan",
             "friendlyurl": "www.epa.gov/superfund/roto-finish",
             "eibaselinesiteInd": "Y",
-            "city": "KALAMAZOO",
+            "city": "PORTAGE",
             "epaid": "MID005340088",
             "county": "KALAMAZOO",
             "regionid": "05",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-22-2021 11:15"
+        "timestamp": "06-22-2021 13:15"
     }
 }
