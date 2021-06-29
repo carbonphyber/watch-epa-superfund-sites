@@ -11237,7 +11237,7 @@
             "fedfacilityflag": "N",
             "state_code": "WI",
             "sitename": "ASHLAND/NORTHERN STATES POWER LAKEFRONT",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HEPR",
             "zipcode": "54806",
             "state": "Wisconsin",
             "friendlyurl": "www.epa.gov/superfund/ashland-northernpower",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "06-29-2021 11:15"
+        "timestamp": "06-29-2021 13:15"
     }
 }
