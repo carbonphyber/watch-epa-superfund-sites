@@ -12533,7 +12533,7 @@
             "fedfacilityflag": "N",
             "state_code": "OH",
             "sitename": "VAN DALE JUNKYARD",
-            "humexposurestscode": "HEUC",
+            "humexposurestscode": "HEPR",
             "zipcode": "45750",
             "state": "Ohio",
             "friendlyurl": "www.epa.gov/superfund/vandale-junkyard",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "07-09-2021 15:15"
+        "timestamp": "07-09-2021 17:15"
     }
 }
