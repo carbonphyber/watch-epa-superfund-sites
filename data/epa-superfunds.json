@@ -10709,7 +10709,7 @@
             "siteid": "0510210",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, the Amcast Industrial Corporation Superfund site is considered \u201cCurrent Human Exposure Not Under Control\u201d because people could be exposed via dermal contact to the PCB-contaminated sediments in the ponds and/or by eating the PCB-contaminated fish from the ponds. One of the ponds is located in a city park. Signs are posted along the ponds warning people not to eat the fish, and that swimming and wading are not allowed. In addition, people could be exposed to PCB-contaminated soils on their property. EPA contacted nearby residents providing information regarding the Site and collected soil samples from their yards; then went door to door notifying residents of the results. The remedial investigation and feasibility study are completed.  A proposed plan to clean up the site is expected to be available for public comment in 2020. A final cleanup decision in a Record of Decision will follow. All of these actions depend on the availability of federal funds. Community outreach activities have included the establishment of public information repositories, meetings and informational mailings. EPA also updates the Amcast web site on a regular basis. "
+            "humanexposurepathdesc": "As of July 2021, the Amcast Industrial Corporation Superfund site is considered \u201cCurrent Human Exposure Not Under Control\u201d because people could be exposed via dermal contact to the polychlorinated biphenyl (PCB)-contaminated sediments in the ponds and/or by eating the PCB-contaminated fish from the ponds. One of the ponds is located in a city park. Signs are posted along the ponds warning people not to eat the fish, and that swimming and wading are not allowed. In addition, people could be exposed to PCB-contaminated soils on their property. EPA contacted nearby residents providing information regarding the Site and collected soil samples from their yards; then went door to door notifying residents of the results. The remedial investigation and feasibility study are completed.  A proposed plan to clean up the site is expected to be available for public comment in 2022. A final cleanup decision in a Record of Decision will follow. All of these actions depend on the availability of federal funds. Community outreach activities have included the establishment of public information repositories, meetings and informational mailings. EPA also updates the Amcast web site on a regular basis."
         },
         {
             "fedfacilityflag": "N",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "07-12-2021 17:15"
+        "timestamp": "07-12-2021 19:15"
     }
 }
