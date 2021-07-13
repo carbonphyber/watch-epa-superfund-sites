@@ -5975,7 +5975,7 @@
             "siteid": "0705842",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, the Washington County Lead District-Furnace Creek site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. An Interim Record of Decision (IROD) was finalized for residential soil in the fourth quarter of 2017. Time critical removal actions to replace lead-contaminated surface soil have been completed at 162 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 17 properties. Cleanup is ongoing. In addition, an alternative drinking water supply is being provided to five residences. As part of the remedial action, EPA meets with the public on a daily basis. "
+            "humanexposurepathdesc": "As of July 2021, the Washington County Lead District-Furnace Creek site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. An Interim Record of Decision (IROD) was finalized for residential soil in the fourth quarter of 2017. Time critical removal actions to replace lead-contaminated surface soil have been completed at 177 properties. Remedial actions to replace lead contaminated surface soil have been completed at 53 properties. Cleanup is ongoing. In addition, an alternative drinking water supply is being provided to six residences. As part of the remedial action, EPA meets with the public on a daily basis. "
         },
         {
             "fedfacilityflag": "N",
@@ -6047,7 +6047,7 @@
             "siteid": "0705032",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, the Washington County Lead District-Richwoods site is considered Human Exposure Not Under Control because lead contamination in private drinking water wells exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. Time critical removal actions to replace lead-contaminated surface soil had been completed at 18 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 50 properties. Any remaining properties to be remediated are being addressed under the WCLD \u2013 Old Mines site. An alternative drinking water supply is being provided to 42 residences. As part of the remedial action, EPA meets with the public on a daily basis."
+            "humanexposurepathdesc": "As of July 2021, the Washington County Lead District-Richwoods site is considered Human Exposure Not Under Control because lead contamination in private drinking water wells exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. Time critical removal actions to replace lead-contaminated surface soil had been completed at 18 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 50 properties. Any remaining properties to be remediated are being addressed under the WCLD \u2013 Old Mines site. An alternative drinking water supply is being provided to 38 residences. "
         },
         {
             "fedfacilityflag": "N",
@@ -6065,7 +6065,7 @@
             "siteid": "0705027",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, the Washington County Lead District-Old Mines site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. Time critical removal actions to replace lead-contaminated surface soil have been completed at 54 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 109 properties. Cleanup is ongoing. In addition, an alternative drinking water supply is being provided to 102 residences. As part of the remedial action, EPA meets with the public on a daily basis."
+            "humanexposurepathdesc": "As of July 2021, the Washington County Lead District-Old Mines site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust and ground water. Time critical removal actions to replace lead-contaminated surface soil have been completed at 70 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 231 properties. Cleanup is ongoing. In addition, an alternative drinking water supply is being provided to 103 residences. As part of the remedial action, EPA meets with the public on a daily basis."
         },
         {
             "fedfacilityflag": "N",
@@ -6101,7 +6101,7 @@
             "siteid": "0705023",
             "nplstatus": "F",
             "saaflag": "N",
-            "humanexposurepathdesc": "As of March 2020, the Washington County Lead District-Potosi site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust, and groundwater. Time critical removal actions to replace lead-contaminated surface soil have been completed at 181 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 47 properties. Cleanup is ongoing. An alternative drinking water supply is being provided to 118 residences. As part of the remedial action, EPA meets with the public on a daily basis."
+            "humanexposurepathdesc": "As of July 2021, the Washington County Lead District-Potosi site is considered Human Exposure Not Under Control because lead contamination in soil exceeds health-based cleanup criteria at multiple properties. The lead concentration in private drinking water wells also exceeds the Federal Drinking Water Standard at numerous properties where only bottled drinking water and point-of-use filters are being employed. Communities can be exposed to lead contamination through ingestion of soil, dust, and groundwater. Time critical removal actions to replace lead-contaminated surface soil have been completed at 269 properties. Remedial actions to replace lead-contaminated surface soil have been completed at 111 properties. Cleanup is ongoing. An alternative drinking water supply is being provided to 98 residences. As part of the remedial action, EPA meets with the public on a daily basis."
         },
         {
             "fedfacilityflag": "N",
@@ -33666,6 +33666,6 @@
         "total_data": 1870,
         "limit": 500000,
         "offset": 0,
-        "timestamp": "07-13-2021 11:15"
+        "timestamp": "07-13-2021 13:15"
     }
 }
